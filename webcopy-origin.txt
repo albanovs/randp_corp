@@ -1,0 +1,860 @@
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf
+Content Type: font/ttf
+
+Uri: https://madebydesignesia.com/themes/cyberguard/?storefront=envato-elements
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\index.htm
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/about.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\about.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/appointment.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\appointment.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/blog-single.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\blog-single.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/blog.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\blog.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/careers.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\careers.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/contact.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\contact.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/bootstrap.min.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/colors/scheme-1.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\colors\scheme-1.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/custom-swiper-1.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\custom-swiper-1.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/datepicker.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\datepicker.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/plugins.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\plugins.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/style.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\style.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/css/swiper.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\css\swiper.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/demo/envato.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\demo\envato.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/demo/envato.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\demo\envato.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/faq.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\faq.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.eot
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\elegant_font\HTML_CSS\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.eot?
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\elegant_font\HTML_CSS\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\elegant_font\HTML_CSS\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\elegant_font\HTML_CSS\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.woff
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\elegant_font\HTML_CSS\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/elegant_font/HTML_CSS/style.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\elegant_font\HTML_CSS\style.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/et-line-font/fonts/et-line.eot
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\et-line-font\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/et-line-font/fonts/et-line.eot?
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\et-line-font\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/et-line-font/fonts/et-line.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\et-line-font\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/et-line-font/fonts/et-line.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\et-line-font\fonts\et-line.ttf
+Content Type: font/ttf
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/et-line-font/fonts/et-line.woff
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\et-line-font\fonts\et-line.woff
+Content Type: font/woff
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/et-line-font/style.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\et-line-font\style.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/css/font-awesome.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome4/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome4\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/css/brands.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\css\brands.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/css/fontawesome.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/css/solid.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\css\solid.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/webfonts/fa-brands-400.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/webfonts/fa-brands-400.woff2
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/webfonts/fa-solid-900.ttf
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/fontawesome6/webfonts/fa-solid-900.woff2
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\fontawesome6\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/icofont/fonts/icofont.woff
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\icofont\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/icofont/fonts/icofont.woff2
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\icofont\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://madebydesignesia.com/themes/cyberguard/fonts/icofont/icofont.min.css
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\fonts\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://madebydesignesia.com/themes/cyberguard/gallery.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\gallery.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/get-a-quote.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\get-a-quote.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/homepage-2.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\homepage-2.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/homepage-3.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\homepage-3.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/homepage-4.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\homepage-4.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/homepage-5.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\homepage-5.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/how-it-works.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\how-it-works.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/7.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\7.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/8.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\8.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/background/w1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\background\w1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/badge/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\badge\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/badge/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\badge\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/badge/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\badge\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/badge/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\badge\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/badge/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\badge\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/badge/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\badge\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l7.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l7.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l8.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l8.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/gallery/l9.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\gallery\l9.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icon.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icon.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-color/cloud-storage.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-color\cloud-storage.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-color/cyber-security.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-color\cyber-security.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-color/encryption.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-color\encryption.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-color/fingerprint.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-color\fingerprint.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-color/monitoring.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-color\monitoring.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-color/settings.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-color\settings.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-dark/cloud.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-dark\cloud.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-dark/padlock.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-dark\padlock.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-dark/quality.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-dark\quality.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-white/cloud-storage.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-white\cloud-storage.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-white/cyber-security.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-white\cyber-security.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-white/encryption.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-white\encryption.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-white/fingerprint.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-white\fingerprint.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-white/monitoring.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-white\monitoring.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/icons-white/settings.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\icons-white\settings.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/7.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\7.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/industries/8.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\industries\8.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/locations/s1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\locations\s1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/locations/s2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\locations\s2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/locations/s3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\locations\s3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/logo-big-white.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\logo-big-white.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/logo-white.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\logo-white.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/logo.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\logo.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/c1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\c1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/google-icon.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\google-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/l1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\l1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/l2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\l2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/l3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\l3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/p1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\p1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/p2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\p2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/s1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\s1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/s2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\s2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/s3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\s3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/misc/up-right-arrow-white.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\misc\up-right-arrow-white.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/news/s1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\news\s1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/news/s2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\news\s2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/news/s3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\news\s3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/news/s4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\news\s4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/news/s5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\news\s5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/news/s6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\news\s6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/projects/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\projects\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/projects/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\projects\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/projects/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\projects\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/projects/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\projects\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/projects/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\projects\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/projects/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\projects\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/services/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\services\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/services/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\services\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/services/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\services\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/services/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\services\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/services/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\services\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/services/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\services\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/svg-white/bell.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\svg-white\bell.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/svg-white/envelope.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\svg-white\envelope.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/svg-white/phone.svg
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\svg-white\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/7.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\7.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/team/8.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\team\8.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/1.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\1.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/10.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\10.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/2.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\2.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/3.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\3.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/4.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\4.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/5.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\5.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/6.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\6.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/7.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\7.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/8.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\8.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/testimonial/9.webp
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\testimonial\9.webp
+Content Type: image/webp
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/ui/arrow-down-light.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\ui\arrow-down-light.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/ui/arrow-down.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\ui\arrow-down.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/ui/arrow-up-light.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\ui\arrow-up-light.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/images/ui/arrow-up.png
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\images\ui\arrow-up.png
+Content Type: image/png
+
+Uri: https://madebydesignesia.com/themes/cyberguard/index.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\index.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/industries.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\industries.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/custom-marquee.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\custom-marquee.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/custom-swiper-1.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\custom-swiper-1.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/custom-swiper-2.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\custom-swiper-2.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/designesia.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\designesia.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/plugins.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\plugins.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/swiper.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\swiper.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/validation-booking.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\validation-booking.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/js/validation-contact.js
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\js\validation-contact.js
+Content Type: text/javascript
+
+Uri: https://madebydesignesia.com/themes/cyberguard/locations.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\locations.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/pricing.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\pricing.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/project-single.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\project-single.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/projects-2.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\projects-2.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/projects-carousel.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\projects-carousel.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/projects-slider.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\projects-slider.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/projects.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\projects.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/service-area.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\service-area.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/service-single.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\service-single.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/services-2.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\services-2.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/services-3.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\services-3.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/services.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\services.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/team.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\team.html
+Content Type: text/html
+
+Uri: https://madebydesignesia.com/themes/cyberguard/testimonials.html
+File Name: C:\Users\dordo\Desktop\ПО\madebydesignesia.com\themes\cyberguard\testimonials.html
+Content Type: text/html
+

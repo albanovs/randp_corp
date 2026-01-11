@@ -13576,3 +13576,93 @@ img {
     width: auto;
   }
 }
+
+.oso-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #1f2937;
+  line-height: 1.6;
+}
+
+.oso-container h1 {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.oso-container h2 {
+  font-size: 22px;
+  margin-top: 40px;
+  margin-bottom: 16px;
+  padding-left: 12px;
+  border-left: 4px solid #2563eb;
+}
+
+.oso-container h3 {
+  font-size: 18px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.oso-container p {
+  margin-bottom: 12px;
+}
+
+.oso-container ul {
+  margin: 12px 0 16px 20px;
+}
+
+.oso-container li {
+  margin-bottom: 8px;
+}
+
+.oso-box {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 24px 0;
+}
+
+.oso-highlight {
+  background: #eff6ff;
+  border-left: 4px solid #2563eb;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+.oso-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.oso-step {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.oso-step strong {
+  display: block;
+  margin-bottom: 6px;
+  color: #2563eb;
+}
+
+/* ===== Адаптив ===== */
+@media (max-width: 600px) {
+  .oso-container {
+    padding: 16px;
+  }
+
+  .oso-container h1 {
+    font-size: 26px;
+  }
+
+  .oso-container h2 {
+    font-size: 20px;
+  }
+}

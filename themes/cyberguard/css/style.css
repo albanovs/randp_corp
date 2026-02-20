@@ -13667,3 +13667,22 @@ img {
   }
 }
 
+.lang-switch {
+    display: inline-flex;
+    align-items: center;
+}
+
+.lang-btn {
+    /* border: 1px solid #fff; */
+    color: #fff;
+    padding: 4px 10px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.lang-btn:hover {
+    background: #fff;
+    color: #000;
+}

@@ -56,6 +56,7 @@
 
         #visaPrice {
             color: #007bff;
+            font-size: 16px;
         }
     </style>
 
@@ -137,8 +138,16 @@
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="#services" class="btn-main fx-slide btn-line me-2"><span>Заказать
-                                            услугу</span></a>
+
+                                    <div class="lang-switch me-3">
+                                        <a href="index.html" class="lang-btn">RU</a>
+                                        <a href="indexeng.html" class="lang-btn">EN</a>
+                                    </div>
+
+                                    <a href="#services" class="btn-main fx-slide btn-line me-2">
+                                        <span>Заказать услугу</span>
+                                    </a>
+
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
@@ -172,8 +181,8 @@
                             <div class="spacer-single"></div>
                             <a class="btn-main fx-slide wow fadeIn" data-wow-delay=".6s"
                                 href="tel:+996700482493"><span>Консультация</span></a>
-                            <a class="btn-main fx-slide wow fadeIn" data-wow-delay=".6s" href="#calcvisa"
-                                ><span>Посчитать стоимость визы</span></a>
+                            <a class="btn-main fx-slide wow fadeIn" data-wow-delay=".6s"
+                                href="#calcvisa"><span>Посчитать стоимость визы</span></a>
                         </div>
 
 
@@ -222,7 +231,7 @@
                 </div>
             </section>
 
-            <section data-bgimage="url(images/background/6.webp) top">
+            <section id="about" data-bgimage="url(images/background/6.webp) top">
                 <div class="container">
                     <div class="row gy-4 gx-5">
                         <div class="col-lg-12">
@@ -283,7 +292,7 @@
 
             </div>
 
-            <section class="section-dark bg-dark text-light">
+            <section id="services" class="section-dark bg-dark text-light">
                 <div class="container">
                     <div class="row g-4 justify-content-center mb-2">
                         <div class="col-lg-12">
@@ -378,10 +387,202 @@
 
                                 <div class="visa-box">
 
-                                    <select id="visaRegion">
-                                        <option value="">Выберите страну</option>
-                                        <option value="uz">Узбекистан</option>
-                                        <option value="other">Другие страны</option>
+                                    <select id="visaRegion" name="visaRegion" class="sel_6966" required>
+                                        <option value="">выберите страну</option>
+                                        <option value="uz">Uzbekistan</option>
+                                        <option value="other">Afghanistan</option>
+                                        <option value="other">Albania</option>
+                                        <option value="other">Algeria</option>
+                                        <option value="other">Andorra</option>
+                                        <option value="other">Angola</option>
+                                        <option value="other">Antigua and Barbuda</option>
+                                        <option value="other">Argentina</option>
+                                        <option value="other">Armenia</option>
+                                        <option value="other">Australia</option>
+                                        <option value="other">Austria</option>
+                                        <option value="other">Azerbaijan</option>
+                                        <option value="other">Bahamas</option>
+                                        <option value="other">Bahrain</option>
+                                        <option value="other">Bangladesh</option>
+                                        <option value="other">Barbados</option>
+                                        <option value="other">Belarus</option>
+                                        <option value="other">Belgium</option>
+                                        <option value="other">Belize</option>
+                                        <option value="other">Benin</option>
+                                        <option value="other">Bhutan</option>
+                                        <option value="other">Bolivia</option>
+                                        <option value="other">Bosnia and Herzegovina</option>
+                                        <option value="other">Botswana</option>
+                                        <option value="other">Brazil</option>
+                                        <option value="other">Brunei Darussalam</option>
+                                        <option value="other">Bulgaria</option>
+                                        <option value="other">Burkina Faso</option>
+                                        <option value="other">Burundi</option>
+                                        <option value="other">Cambodia</option>
+                                        <option value="other">Cameroon</option>
+                                        <option value="other">Canada</option>
+                                        <option value="other">Cape Verde</option>
+                                        <option value="other">Central African Republic</option>
+                                        <option value="other">Chad</option>
+                                        <option value="other">Chile</option>
+                                        <option value="other">China</option>
+                                        <option value="other">Colombia</option>
+                                        <option value="other">Comoros</option>
+                                        <option value="other">Congo</option>
+                                        <option value="other">Costa Rica</option>
+                                        <option value="other">Cote dIvoire</option>
+                                        <option value="other">Croatia</option>
+                                        <option value="other">Cuba</option>
+                                        <option value="other">Cyprus</option>
+                                        <option value="other">Czech Republic</option>
+                                        <option value="other">Democratic Peoples Republic of Korea</option>
+                                        <option value="other">Democratic Republic of the Congo</option>
+                                        <option value="other">Denmark</option>
+                                        <option value="other">Djibouti</option>
+                                        <option value="other">Dominica</option>
+                                        <option value="other">Dominican Republic</option>
+                                        <option value="other">Ecuador</option>
+                                        <option value="other">Egypt</option>
+                                        <option value="other">El Salvador</option>
+                                        <option value="other">Equatorial Guinea</option>
+                                        <option value="other">Eritrea</option>
+                                        <option value="other">Estonia</option>
+                                        <option value="other">Ethiopia</option>
+                                        <option value="other">Fiji</option>
+                                        <option value="other">Finland</option>
+                                        <option value="other">France</option>
+                                        <option value="other">Gabon</option>
+                                        <option value="other">Gambia</option>
+                                        <option value="other">Georgia</option>
+                                        <option value="other">Germany</option>
+                                        <option value="other">Ghana</option>
+                                        <option value="other">Greece</option>
+                                        <option value="other">Grenada</option>
+                                        <option value="other">Guatemala</option>
+                                        <option value="other">Guinea</option>
+                                        <option value="other">Guinea-Bissau</option>
+                                        <option value="other">Guyana</option>
+                                        <option value="other">Haiti</option>
+                                        <option value="other">Holy See</option>
+                                        <option value="other">Honduras</option>
+                                        <option value="other">Hungary</option>
+                                        <option value="other">Iceland</option>
+                                        <option value="other">India</option>
+                                        <option value="other">Indonesia</option>
+                                        <option value="other">Iran</option>
+                                        <option value="other">Iraq</option>
+                                        <option value="other">Ireland</option>
+                                        <option value="other">Israel</option>
+                                        <option value="other">Italy</option>
+                                        <option value="other">Jamaica</option>
+                                        <option value="other">Japan</option>
+                                        <option value="other">Jordan</option>
+                                        <option value="other">Kazakhstan</option>
+                                        <option value="other">Kenya</option>
+                                        <option value="other">Kiribati</option>
+                                        <option value="other">Korea</option>
+                                        <option value="other">Kuwait</option>
+                                        <option value="other">Lao PDR</option>
+                                        <option value="other">Latvia</option>
+                                        <option value="other">Lebanon</option>
+                                        <option value="other">Lesotho</option>
+                                        <option value="other">Liberia</option>
+                                        <option value="other">Libya</option>
+                                        <option value="other">Liechtenstein</option>
+                                        <option value="other">Lithuania</option>
+                                        <option value="other">Luxembourg</option>
+                                        <option value="other">Macao</option>
+                                        <option value="other">Macedonia</option>
+                                        <option value="other">Madagascar</option>
+                                        <option value="other">Malawi</option>
+                                        <option value="other">Malaysia</option>
+                                        <option value="other">Maldives</option>
+                                        <option value="other">Mali</option>
+                                        <option value="other">Malta</option>
+                                        <option value="other">Marshall Islands</option>
+                                        <option value="other">Mauritania</option>
+                                        <option value="other">Mauritius</option>
+                                        <option value="other">Mexico</option>
+                                        <option value="other">Micronesia</option>
+                                        <option value="other">Moldova</option>
+                                        <option value="other">Monaco</option>
+                                        <option value="other">Mongolia</option>
+                                        <option value="other">Montenegro</option>
+                                        <option value="other">Morocco</option>
+                                        <option value="other">Mozambique</option>
+                                        <option value="other">Myanmar</option>
+                                        <option value="other">Namibia</option>
+                                        <option value="other">Nauru</option>
+                                        <option value="other">Nepal</option>
+                                        <option value="other">Netherlands</option>
+                                        <option value="other">New Zealand</option>
+                                        <option value="other">Nicaragua</option>
+                                        <option value="other">Niger</option>
+                                        <option value="other">Nigeria</option>
+                                        <option value="other">Norway</option>
+                                        <option value="other">Oman</option>
+                                        <option value="other">Pakistan</option>
+                                        <option value="other">Palau</option>
+                                        <option value="other">Palestinian Territory</option>
+                                        <option value="other">Panama</option>
+                                        <option value="other">Papua New Guinea</option>
+                                        <option value="other">Paraguay</option>
+                                        <option value="other">Peru</option>
+                                        <option value="other">Philippines</option>
+                                        <option value="other">Poland</option>
+                                        <option value="other">Portugal</option>
+                                        <option value="other">Romania</option>
+                                        <option value="other">Russian Federation</option>
+                                        <option value="other">Rwanda</option>
+                                        <option value="other">Saint Kitts and Nevis</option>
+                                        <option value="other">Saint Lucia</option>
+                                        <option value="other">Saint Vincent and Grenadines</option>
+                                        <option value="other">Samoa</option>
+                                        <option value="other">San Marino</option>
+                                        <option value="other">Sao Tome and Principe</option>
+                                        <option value="other">Saudi Arabia</option>
+                                        <option value="other">Senegal</option>
+                                        <option value="other">Serbia</option>
+                                        <option value="other">Seychelles</option>
+                                        <option value="other">Sierra Leone</option>
+                                        <option value="other">Singapore</option>
+                                        <option value="other">Slovakia</option>
+                                        <option value="other">Slovenia</option>
+                                        <option value="other">Solomon Islands</option>
+                                        <option value="other">Somalia</option>
+                                        <option value="other">South Africa</option>
+                                        <option value="other">South Sudan</option>
+                                        <option value="other">Spain</option>
+                                        <option value="other">Sri Lanka</option>
+                                        <option value="other">Sudan</option>
+                                        <option value="other">Suriname</option>
+                                        <option value="other">Swaziland</option>
+                                        <option value="other">Sweden</option>
+                                        <option value="other">Switzerland</option>
+                                        <option value="other">Syrian Arab Republic</option>
+                                        <option value="other">Tajikistan</option>
+                                        <option value="other">Tanzania</option>
+                                        <option value="other">Thailand</option>
+                                        <option value="other">Timor-Leste</option>
+                                        <option value="other">Togo</option>
+                                        <option value="other">Tonga</option>
+                                        <option value="other">Trinidad and Tobago</option>
+                                        <option value="other">Tunisia</option>
+                                        <option value="other">Turkey</option>
+                                        <option value="other">Turkmenistan</option>
+                                        <option value="other">Tuvalu</option>
+                                        <option value="other">Uganda</option>
+                                        <option value="other">Ukraine</option>
+                                        <option value="other">United Arab Emirates</option>
+                                        <option value="other">United Kingdom</option>
+                                        <option value="other">United States of America</option>
+                                        <option value="other">Uruguay</option>
+                                        <option value="other">Vanuatu</option>
+                                        <option value="other">Venezuela</option>
+                                        <option value="other">Viet Nam</option>
+                                        <option value="other">Yemen</option>
+                                        <option value="other">Zambia</option>
+                                        <option value="other">Zimbabwe</option>
                                     </select>
 
                                     <select id="visaType" style="display:none;"></select>
@@ -391,18 +592,21 @@
                                     <select id="visaDuration" style="display:none;"></select>
 
                                     <div class="visa-result">
-                                        Стоимость: <strong id="visaPrice">—</strong> сом
+                                        <strong id="visaPrice">—</strong>
                                     </div>
-                                    <p class="wow fadeInUp" style="line-height:1; font-size: 14px; margin-top: 20px;"
+                                    <p class="wow fadeInUp"
+                                        style="line-height:1; text-align: center; font-size: 14px; margin-top: 20px;"
                                         data-wow-delay=".4s">
-                                        Все цены не являются фиксированными и обсуждаются в индивидуальном порядке
+                                        Расчёт является предварительным.
+                                        Окончательная стоимость определяется индивидуально после проверки документов и
+                                        уточнения обстоятельств заявителя.
                                     </p>
                                 </div>
                             </section>
 
                             <!-- Основные категории -->
-                            <h4 class="wow fadeInUp" data-wow-delay=".5s">
-                                🇰🇬 Основные категории виз Кыргызской Республики
+                            <h4 class="wow fadeInUp mt-5" data-wow-delay=".5s">
+                                Основные категории виз Кыргызской Республики
                             </h4>
                             <p class="wow fadeInUp" data-wow-delay=".6s">
                                 Мы выделяем наиболее востребованные и важные типы виз для деловых, инвестиционных и
@@ -1077,7 +1281,7 @@
         <!-- content end -->
 
         <!-- footer begin -->
-        <footer class="section-dark">
+        <footer id="contact" class="section-dark">
             <div class="container">
                 <div class="row gx-5">
                     <div class="col-lg-4 col-sm-6">
@@ -1151,703 +1355,517 @@
                     'Сапар виза': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                '1 месяц': 6500,
-                                '2 месяца': 7500,
-                                '3 месяца': 8500,
-                                '6 месяцев': 11000
+                                '1 месяц': 4503.68,
+                                '2 месяца': 5404.41,
+                                '3 месяца': 6305.15,
                             },
                             'Многократная': {
-                                '1 месяц': 7500,
-                                '2 месяца': 9000,
-                                '3 месяца': 10500,
-                                '6 месяцев': 14500
+                                '1 месяц': 5404.41,
+                                '2 месяца': 6755.51,
+                                '3 месяца': 8106.62,
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                '1 месяц': 15500,
-                                '2 месяца': 18500,
-                                '3 месяца': 21000,
-                                '6 месяцев': 29000
+                                '1 месяц': 13511.03,
+                                '2 месяца': 16213.23,
+                                '3 месяца': 18915.44,
                             },
                             'Многократная': {
-                                '1 месяц': 18500,
-                                '2 месяца': 22500,
-                                '3 месяца': 26500,
-                                '6 месяцев': 38500
+                                '1 месяц': 16213.23,
+                                '2 месяца': 20266.54,
+                                '3 месяца': 24319.85,
                             }
-                        }
+                        },
+                        'Услуги по оформлению визы': 5000
                     },
                     'RELATIVES VISA – Воссоединение с семьей ( RL )': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                '1 месяц': 10500,
-                                '2 месяца': 11500,
-                                '3 месяца': 12500,
-                                '4 месяца': 13500,
-                                '5 месяцев': 14500,
-                                '6 месяцев': 15000,
-                                '7 месяцев': 16000,
-                                '8 месяцев': 17000,
-                                '9 месяцев': 18000,
-                                '10 месяцев': 18600,
-                                '11 месяцев': 19500,
-                                '12 месяцев': 20500,
+                                '1 месяц': 4503,
+                                '2 месяца': 5404,
+                                '3 месяца': 6305,
+                                '4 месяца': 7205,
+                                '5 месяцев': 8106,
+                                '6 месяцев': 9007,
+                                '7 месяцев': 9908,
+                                '8 месяцев': 10808,
+                                '9 месяцев': 11709,
+                                '10 месяцев': 12610,
+                                '11 месяцев': 13511,
+                                '12 месяцев': 14411
                             },
                             'Многократная': {
-                                '1 месяц': 11500,
-                                '2 месяца': 13000,
-                                '3 месяца': 14500,
-                                '4 месяца': 15500,
-                                '5 месяцев': 17000,
-                                '6 месяцев': 18500,
-                                '7 месяцев': 19500,
-                                '8 месяцев': 21000,
-                                '9 месяцев': 25500,
-                                '10 месяцев': 23600,
-                                '11 месяцев': 25000,
-                                '12 месяцев': 26500
+                                '1 месяц': 5404,
+                                '2 месяца': 6755,
+                                '3 месяца': 8106,
+                                '4 месяца': 9457,
+                                '5 месяцев': 10808,
+                                '6 месяцев': 12159,
+                                '7 месяцев': 13511,
+                                '8 месяцев': 14862,
+                                '9 месяцев': 16213,
+                                '10 месяцев': 17564,
+                                '11 месяцев': 18915,
+                                '12 месяцев': 20266
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                '1 месяц': 19500,
-                                '2 месяца': 22500,
-                                '3 месяца': 25000,
-                                '4 месяца': 28000,
-                                '5 месяцев': 30500,
-                                '6 месяцев': 33000,
-                                '7 месяцев': 36000,
-                                '8 месяцев': 38500,
-                                '9 месяцев': 41500,
-                                '10 месяцев': 44000,
-                                '11 месяцев': 46500,
-                                '12 месяцев': 49500
+                                '1 месяц': 13511,
+                                '2 месяца': 16213,
+                                '3 месяца': 18915,
+                                '4 месяца': 21617,
+                                '5 месяцев': 24319,
+                                '6 месяцев': 27022,
+                                '7 месяцев': 29724,
+                                '8 месяцев': 32426,
+                                '9 месяцев': 35128,
+                                '10 месяцев': 37830,
+                                '11 месяцев': 40533,
+                                '12 месяцев': 43235
                             },
                             'Многократная': {
-                                '1 месяц': 22500,
-                                '2 месяца': 26500,
-                                '3 месяца': 30500,
-                                '4 месяца': 34500,
-                                '5 месяцев': 38500,
-                                '6 месяцев': 42500,
-                                '7 месяцев': 46500,
-                                '8 месяцев': 51000,
-                                '9 месяцев': 55000,
-                                '10 месяцев': 59000,
-                                '11 месяцев': 63000,
-                                '12 месяцев': 67000
-                            }
-                        }
-                    },
-                    'FOREIGNER FAMILY VISA – для членов семьи иностранного гражданина ( FF )': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 10500,
-                                '2 месяца': 11500,
-                                '3 месяца': 12500,
-                                '4 месяца': 13500,
-                                '5 месяцев': 14500,
-                                '6 месяцев': 15000,
-                                '7 месяцев': 16000,
-                                '8 месяцев': 17000,
-                                '9 месяцев': 18000,
-                                '10 месяцев': 18600,
-                                '11 месяцев': 19500,
-                                '12 месяцев': 20500,
-                            },
-                            'Многократная': {
-                                '1 месяц': 11500,
-                                '2 месяца': 13000,
-                                '3 месяца': 14500,
-                                '4 месяца': 15500,
-                                '5 месяцев': 17000,
-                                '6 месяцев': 18500,
-                                '7 месяцев': 19500,
-                                '8 месяцев': 21000,
-                                '9 месяцев': 25500,
-                                '10 месяцев': 23600,
-                                '11 месяцев': 25000,
-                                '12 месяцев': 26500
+                                '1 месяц': 16213,
+                                '2 месяца': 20266,
+                                '3 месяца': 24319,
+                                '4 месяца': 28373,
+                                '5 месяцев': 32426,
+                                '6 месяцев': 36479,
+                                '7 месяцев': 40533,
+                                '8 месяцев': 44586,
+                                '9 месяцев': 48639,
+                                '10 месяцев': 52683,
+                                '11 месяцев': 56746,
+                                '12 месяцев': 60799
                             }
                         },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 19500,
-                                '2 месяца': 22500,
-                                '3 месяца': 25000,
-                                '4 месяца': 28000,
-                                '5 месяцев': 30500,
-                                '6 месяцев': 33000,
-                                '7 месяцев': 36000,
-                                '8 месяцев': 38500,
-                                '9 месяцев': 41500,
-                                '10 месяцев': 44000,
-                                '11 месяцев': 46500,
-                                '12 месяцев': 49500
-                            },
-                            'Многократная': {
-                                '1 месяц': 22500,
-                                '2 месяца': 26500,
-                                '3 месяца': 30500,
-                                '4 месяца': 34500,
-                                '5 месяцев': 38500,
-                                '6 месяцев': 42500,
-                                '7 месяцев': 46500,
-                                '8 месяцев': 51000,
-                                '9 месяцев': 55000,
-                                '10 месяцев': 59000,
-                                '11 месяцев': 63000,
-                                '12 месяцев': 67000
-                            }
-                        }
+                        'Услуги по оформлению визы': 6000
                     },
-                    'WORKING VISA SPECIAL( SW )': {
+                    'WORKING VISA SPECIAL ( SW )': {
                         'Для трудоустройства в КР': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
-                                    '1 месяц': 8500,
-                                    '2 месяца': 9500,
+                                    '1 месяц': 4503.68,
+                                    '2 месяца': 5404.41
                                 },
                                 'Многократная': {
-                                    '1 месяц': 9500,
-                                    '2 месяца': 11000,
+                                    '1 месяц': 5404.41,
+                                    '2 месяца': 6755.51
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
-                                    '1 месяц': 17500,
-                                    '2 месяца': 20500,
+                                    '1 месяц': 13511.03,
+                                    '2 месяца': 16213.23
                                 },
                                 'Многократная': {
-                                    '1 месяц': 20500,
-                                    '2 месяца': 24500,
+                                    '1 месяц': 16213.23,
+                                    '2 месяца': 20266.54
                                 }
-                            }
+                            },
+                            'Услуги по оформлению визы (не считая справки)': 4000
                         },
                         'Для Работающих в КР': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
-                                    '1 месяц': 11500,
-                                    '2 месяца': 12500,
-                                    '3 месяца': 13500,
-                                    '4 месяца': 14500,
-                                    '5 месяцев': 15000,
-                                    '6 месяцев': 16000,
-                                    '7 месяцев': 17000,
-                                    '8 месяцев': 18000,
-                                    '9 месяцев': 18600,
-                                    '10 месяцев': 19500,
-                                    '11 месяцев': 20500,
+                                    '1 месяц': 5404,
+                                    '2 месяца': 5404,
+                                    '3 месяца': 6305,
+                                    '4 месяца': 7205,
+                                    '5 месяцев': 8106,
+                                    '6 месяцев': 9007,
+                                    '7 месяцев': 9908,
+                                    '8 месяцев': 10808,
+                                    '9 месяцев': 11709,
+                                    '10 месяцев': 12610,
+                                    '11 месяцев': 13511,
+                                    '12 месяцев': 14411
                                 },
                                 'Многократная': {
-                                    '1 месяц': 11500,
-                                    '2 месяца': 13000,
-                                    '3 месяца': 14500,
-                                    '4 месяца': 15500,
-                                    '5 месяцев': 17000,
-                                    '6 месяцев': 18500,
-                                    '7 месяцев': 19500,
-                                    '8 месяцев': 21000,
-                                    '9 месяцев': 25500,
-                                    '10 месяцев': 23600,
-                                    '11 месяцев': 25000,
-                                    '12 месяцев': 26500
+                                    '1 месяц': 5404,
+                                    '2 месяца': 6755,
+                                    '3 месяца': 8106,
+                                    '4 месяца': 9457,
+                                    '5 месяцев': 10808,
+                                    '6 месяцев': 12159,
+                                    '7 месяцев': 13511,
+                                    '8 месяцев': 14862,
+                                    '9 месяцев': 16213,
+                                    '10 месяцев': 17564,
+                                    '11 месяцев': 18915,
+                                    '12 месяцев': 20266
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
-                                    '1 месяц': 22500,
-                                    '2 месяца': 25000,
-                                    '3 месяца': 28000,
-                                    '4 месяца': 30500,
-                                    '5 месяцев': 33000,
-                                    '6 месяцев': 36000,
-                                    '7 месяцев': 38500,
-                                    '8 месяцев': 41500,
-                                    '9 месяцев': 44000,
-                                    '10 месяцев': 46500,
-                                    '11 месяцев': 49500
+                                    '1 месяц': 16213,
+                                    '2 месяца': 16213,
+                                    '3 месяца': 18915,
+                                    '4 месяца': 21617,
+                                    '5 месяцев': 24319,
+                                    '6 месяцев': 27022,
+                                    '7 месяцев': 29724,
+                                    '8 месяцев': 32426,
+                                    '9 месяцев': 35128,
+                                    '10 месяцев': 37830,
+                                    '11 месяцев': 40533,
+                                    '12 месяцев': 43235
                                 },
                                 'Многократная': {
-                                    '1 месяц': 22500,
-                                    '2 месяца': 26500,
-                                    '3 месяца': 30500,
-                                    '4 месяца': 34500,
-                                    '5 месяцев': 38500,
-                                    '6 месяцев': 42500,
-                                    '7 месяцев': 46500,
-                                    '8 месяцев': 51000,
-                                    '9 месяцев': 55000,
-                                    '10 месяцев': 59000,
-                                    '11 месяцев': 63000,
-                                    '12 месяцев': 67000
+                                    '1 месяц': 16213,
+                                    '2 месяца': 20266,
+                                    '3 месяца': 24319,
+                                    '4 месяца': 28373,
+                                    '5 месяцев': 32426,
+                                    '6 месяцев': 36479,
+                                    '7 месяцев': 40533,
+                                    '8 месяцев': 44586,
+                                    '9 месяцев': 48639,
+                                    '10 месяцев': 52683,
+                                    '11 месяцев': 56746,
+                                    '12 месяцев': 60799
                                 }
                             }
-                        }
+                        },
+                        'Услуги по оформлению визы (не считая справки)': 6000
                     },
                     'STUDY ( S )': {
                         'Для абитуриентов': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
-                                    '1 месяц': 9500,
-                                    '2 месяца': 10000,
-                                    '3 месяца': 10500,
+                                    '1 месяц': 4503.68,
+                                    '2 месяца': 4954,
+                                    '3 месяца': 5404
                                 },
                                 'Многократная': {
-                                    '1 месяц': 10500,
-                                    '2 месяца': 11500,
-                                    '3 месяца': 12500,
+                                    '1 месяц': 5404.41,
+                                    '2 месяца': 6305,
+                                    '3 месяца': 7202
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
-                                    '1 месяц': 18500,
-                                    '2 месяца': 20000,
-                                    '3 месяца': 21500,
+                                    '1 месяц': 13511.03,
+                                    '2 месяца': 14862,
+                                    '3 месяца': 16213
                                 },
                                 'Многократная': {
-                                    '1 месяц': 21500,
-                                    '2 месяца': 24000,
-                                    '3 месяца': 27000,
+                                    '1 месяц': 16213.23,
+                                    '2 месяца': 18915,
+                                    '3 месяца': 21617
                                 }
-                            }
+                            },
+                            'Услуги по оформлению визы (не считая справки)': 6000
                         },
                         'Для учащихся': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
-                                    '1 месяц': 9500,
-                                    '2 месяца': 10000,
-                                    '3 месяца': 10500,
-                                    '4 месяца': 11000,
-                                    '5 месяцев': 11500,
-                                    '6 месяцев': 12000,
-                                    '7 месяцев': 12500,
-                                    '8 месяцев': 13000,
-                                    '9 месяцев': 13500,
-                                    '10 месяцев': 13500,
-                                    '11 месяцев': 14000,
-                                    '12 месяцев': 14500
+                                    '1 месяц': 4503,
+                                    '2 месяца': 4954,
+                                    '3 месяца': 5404,
+                                    '4 месяца': 5854,
+                                    '5 месяцев': 6305,
+                                    '6 месяцев': 6755,
+                                    '7 месяцев': 7205,
+                                    '8 месяцев': 7656,
+                                    '9 месяцев': 8106.62,
+                                    '10 месяцев': 8556.98,
+                                    '11 месяцев': 9007.35,
+                                    '12 месяцев': 9457.72
                                 },
                                 'Многократная': {
-                                    '1 месяц': 10500,
-                                    '2 месяца': 11500,
-                                    '3 месяца': 12500,
-                                    '4 месяца': 13500,
-                                    '5 месяцев': 14000,
-                                    '6 месяцев': 15000,
-                                    '7 месяцев': 16000,
-                                    '8 месяцев': 17000,
-                                    '9 месяцев': 18000,
-                                    '10 месяцев': 18500,
-                                    '11 месяцев': 19500,
-                                    '12 месяцев': 20500
+                                    '1 месяц': 5404.41,
+                                    '2 месяца': 6305.15,
+                                    '3 месяца': 7205.88,
+                                    '4 месяца': 8106.62,
+                                    '5 месяцев': 9007.35,
+                                    '6 месяцев': 9908.09,
+                                    '7 месяцев': 10808.82,
+                                    '8 месяцев': 11709.56,
+                                    '9 месяцев': 12610.29,
+                                    '10 месяцев': 13511.03,
+                                    '11 месяцев': 14411.76,
+                                    '12 месяцев': 15312.50
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
-                                    '1 месяц': 18500,
-                                    '2 месяца': 20000,
-                                    '3 месяца': 21500,
+                                    '1 месяц': 16213.23,
+                                    '2 месяца': 16213,
+                                    '3 месяца': 18915,
+                                    '4 месяца': 21617,
+                                    '5 месяцев': 24319,
+                                    '6 месяцев': 27022,
+                                    '7 месяцев': 29724,
+                                    '8 месяцев': 32426,
+                                    '9 месяцев': 35128,
+                                    '10 месяцев': 37830,
+                                    '11 месяцев': 40533,
+                                    '12 месяцев': 43235
                                 },
                                 'Многократная': {
-                                    '1 месяц': 21500,
-                                    '2 месяца': 24000,
-                                    '3 месяца': 27000,
+                                    '1 месяц': 16213.23,
+                                    '2 месяца': 20266.54,
+                                    '3 месяца': 21617.64,
+                                    '4 месяца': 24319.85,
+                                    '5 месяцев': 27022.05,
+                                    '6 месяцев': 29724.26,
+                                    '7 месяцев': 32426.46,
+                                    '8 месяцев': 35128.67,
+                                    '9 месяцев': 37830.87,
+                                    '10 месяцев': 40533.08,
+                                    '11 месяцев': 43235.28,
+                                    '12 месяцев': 45937.49
                                 }
                             }
                         }
                     },
                     'LEAVE ( L)': {
                         'Стандартное рассмотрение': {
-                            'В случае превышения срока пребывания до 3 месяцев': 14000,
-                            'В случае превышения срока пребывания до 6 месяцев': 18500,
-                            'В случае превышения срока пребывания от 6 месяцев до 1 года': 23000,
-                            'В случае превышения срока пребывания более 1 года': 27500
+                            'В случае превышения срока пребывания до 3 месяцев': 9007.35,
+                            'В случае превышения срока пребывания до 6 месяцев': 13511.03,
+                            'В случае превышения срока пребывания от 6 месяцев до 1 года': 18014.70,
+                            'В случае превышения срока пребывания более 1 года': 22518.38
                         },
-                        'Ускоренное рассмотрение': {
-                            'В случае превышения срока пребывания до 3 месяцев': 32000,
-                            'В случае превышения срока пребывания до 6 месяцев': 45500,
-                            'В случае превышения срока пребывания от 6 месяцев до 1 года': 59000,
-                            'В случае превышения срока пребывания более 1 года': 72500
-                        }
+                        'Ускоренное рассмотрение (2 дня)': {
+                            'В случае превышения срока пребывания до 3 месяцев': 27022.05,
+                            'В случае превышения срока пребывания до 6 месяцев': 40533.08,
+                            'В случае превышения срока пребывания от 6 месяцев до 1 года': 54044.10,
+                            'В случае превышения срока пребывания более 1 года': 67555.13
+                        },
+                        'Услуги по оформлению визы (не считая протокола)': 6000
                     },
-                    'Цифровой кочевник  ( DN )': {
+                    'Цифровой кочевник ( DN )': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                '1 месяц': 8500,
-                                '2 месяца': 9500,
-                                '3 месяца': 10500,
-                                '4 месяца': 11500,
-                                '5 месяцев': 12500,
-                                '6 месяцев': 13000,
+                                '1 месяц': 4503.68,
+                                '2 месяца': 5404.41,
+                                '3 месяца': 6305.15,
+                                '4 месяца': 7205.88,
+                                '5 месяцев': 8106.62,
+                                '6 месяцев': 9007.35
                             },
                             'Многократная': {
-                                '1 месяц': 9500,
-                                '2 месяца': 11000,
-                                '3 месяца': 12500,
-                                '4 месяца': 13500,
-                                '5 месяцев': 15000,
-                                '6 месяцев': 16500,
+                                '1 месяц': 5404.41,
+                                '2 месяца': 6755.51,
+                                '3 месяца': 8106.62,
+                                '4 месяца': 9457.72,
+                                '5 месяцев': 10808.82,
+                                '6 месяцев': 12159.92
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                '1 месяц': 17500,
-                                '2 месяца': 20500,
-                                '3 месяца': 23000,
-                                '4 месяца': 26000,
-                                '5 месяцев': 28500,
-                                '6 месяцев': 31000,
+                                '1 месяц': 13511.03,
+                                '2 месяца': 16213.23,
+                                '3 месяца': 18915.44,
+                                '4 месяца': 21617.64,
+                                '5 месяцев': 24319.85,
+                                '6 месяцев': 27022.05
                             },
                             'Многократная': {
-                                '1 месяц': 20500,
-                                '2 месяца': 24500,
-                                '3 месяца': 28500,
-                                '4 месяца': 32500,
-                                '5 месяцев': 36500,
-                                '6 месяцев': 40500,
+                                '1 месяц': 16213.23,
+                                '2 месяца': 20266.54,
+                                '3 месяца': 24319.85,
+                                '4 месяца': 28373.15,
+                                '5 месяцев': 32426.46,
+                                '6 месяцев': 36479.77
                             }
-                        }
+                        },
+                        'Услуги по оформлению визы (не считая нот. заверения)': 4000
                     },
                     'Visa to ethnic Kyrgyz ( M )': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                '1 месяц': 9500,
-                                '2 месяца': 10500,
-                                '3 месяца': 11500,
-                                '4 месяца': 12500,
-                                '5 месяцев': 13500,
-                                '6 месяцев': 14000,
-                                '7 месяцев': 15000,
-                                '8 месяцев': 16000,
-                                '9 месяцев': 17000,
-                                '10 месяцев': 18000,
-                                '11 месяцев': 18500,
-                                '12 месяцев': 19500
+                                '1 месяц': 4503,
+                                '2 месяца': 5404,
+                                '3 месяца': 6305,
+                                '4 месяца': 7205,
+                                '5 месяцев': 8106,
+                                '6 месяцев': 9007,
+                                '7 месяцев': 9908,
+                                '8 месяцев': 10808,
+                                '9 месяцев': 11709,
+                                '10 месяцев': 12610,
+                                '11 месяцев': 13511,
+                                '12 месяцев': 14411
                             },
                             'Многократная': {
-                                '1 месяц': 10500,
-                                '2 месяца': 12000,
-                                '3 месяца': 13500,
-                                '4 месяца': 14500,
-                                '5 месяцев': 16000,
-                                '6 месяцев': 17500,
-                                '7 месяцев': 18500,
-                                '8 месяцев': 20000,
-                                '9 месяцев': 21500,
-                                '10 месяцев': 22500,
-                                '11 месяцев': 24000,
-                                '12 месяцев': 25500
+                                '1 месяц': 5404,
+                                '2 месяца': 6755,
+                                '3 месяца': 8106,
+                                '4 месяца': 9457,
+                                '5 месяцев': 10808,
+                                '6 месяцев': 12159,
+                                '7 месяцев': 13511,
+                                '8 месяцев': 14862,
+                                '9 месяцев': 16213,
+                                '10 месяцев': 17564,
+                                '11 месяцев': 18915,
+                                '12 месяцев': 20266
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                '1 месяц': 18500,
-                                '2 месяца': 21500,
-                                '3 месяца': 24000,
-                                '4 месяца': 27000,
-                                '5 месяцев': 29500,
-                                '6 месяцев': 32000,
-                                '7 месяцев': 35000,
-                                '8 месяцев': 37500,
-                                '9 месяцев': 40500,
-                                '10 месяцев': 43000,
-                                '11 месяцев': 45500,
-                                '12 месяцев': 48500
+                                '1 месяц': 13511,
+                                '2 месяца': 16213,
+                                '3 месяца': 18915,
+                                '4 месяца': 21617,
+                                '5 месяцев': 24319,
+                                '6 месяцев': 27022,
+                                '7 месяцев': 29724,
+                                '8 месяцев': 32426,
+                                '9 месяцев': 35128,
+                                '10 месяцев': 37830,
+                                '11 месяцев': 40533,
+                                '12 месяцев': 43235
                             },
                             'Многократная': {
-                                '1 месяц': 21500,
-                                '2 месяца': 25500,
-                                '3 месяца': 29500,
-                                '4 месяца': 33500,
-                                '5 месяцев': 37500,
-                                '6 месяцев': 41500,
-                                '7 месяцев': 45500,
-                                '8 месяцев': 49500,
-                                '9 месяцев': 54000,
-                                '10 месяцев': 58000,
-                                '11 месяцев': 62000,
-                                '12 месяцев': 66000
+                                '1 месяц': 16213,
+                                '2 месяца': 20266,
+                                '3 месяца': 24319,
+                                '4 месяца': 28373,
+                                '5 месяцев': 32426,
+                                '6 месяцев': 36479,
+                                '7 месяцев': 40533,
+                                '8 месяцев': 44586,
+                                '9 месяцев': 48639,
+                                '10 месяцев': 52683,
+                                '11 месяцев': 56746,
+                                '12 месяцев': 60799
                             }
-                        }
+                        },
+                        'Услуги по оформлению визы': 5000
                     },
                     'Transit-Транзитная виза ( TR )': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                'Однократная': 5000,
+                                'Однократная': 2252
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                'Однократная': 9500,
-                            },
-                        }
+                                'Однократная': 6756
+                            }
+                        },
+                        'Услуги по оформлению визы': 2500
                     },
                     'Religion-Религиозная виза (тип «R»)': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                '1 месяц': 7500,
-                                '2 месяца': 8500,
+                                '1 месяц': 4504,
+                                '2 месяца': 5404
                             },
                             'Многократная': {
-                                '1 месяц': 8500,
-                                '2 месяца': 10000,
+                                '1 месяц': 5404,
+                                '2 месяца': 6756
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                '1 месяц': 16500,
-                                '2 месяца': 19500,
+                                '1 месяц': 13511,
+                                '2 месяца': 16213
                             },
                             'Многократная': {
-                                '1 месяц': 19500,
-                                '2 месяца': 23500,
+                                '1 месяц': 16213,
+                                '2 месяца': 20266
                             }
-                        }
+                        },
+                        'Услуги по оформлению визы': 3000
                     },
                     'Special Guest visa - Атайын мейман виза (тип «SG»)': {
                         'Стандартное рассмотрение': {
                             'Однократная': {
-                                '1 месяц': 8500,
-                                '2 месяца': 9500,
-                                '3 месяца': 10500,
-                                '4 месяца': 11500,
-                                '5 месяцев': 12500,
-                                '6 месяцев': 13000,
-                                '7 месяцев': 14000,
-                                '8 месяцев': 15000,
-                                '9 месяцев': 16000,
-                                '10 месяцев': 17000,
-                                '11 месяцев': 17500,
-                                '12 месяцев': 18500
+                                '1 месяц': 4503,
+                                '2 месяца': 5404,
+                                '3 месяца': 6305,
+                                '4 месяца': 7205,
+                                '5 месяцев': 8106,
+                                '6 месяцев': 9007,
+                                '7 месяцев': 9908,
+                                '8 месяцев': 10808,
+                                '9 месяцев': 11709,
+                                '10 месяцев': 12610,
+                                '11 месяцев': 13511,
+                                '12 месяцев': 14411
                             },
                             'Многократная': {
-                                '1 месяц': 9500,
-                                '2 месяца': 11000,
-                                '3 месяца': 12500,
-                                '4 месяца': 13500,
-                                '5 месяцев': 15000,
-                                '6 месяцев': 17500,
-                                '7 месяцев': 18000,
-                                '8 месяцев': 19000,
-                                '9 месяцев': 20500,
-                                '10 месяцев': 21500,
-                                '11 месяцев': 23000,
-                                '12 месяцев': 24500
+                                '1 месяц': 5404,
+                                '2 месяца': 6756,
+                                '3 месяца': 8106,
+                                '4 месяца': 9457,
+                                '5 месяцев': 10808,
+                                '6 месяцев': 12159,
+                                '7 месяцев': 13511,
+                                '8 месяцев': 14862,
+                                '9 месяцев': 16213,
+                                '10 месяцев': 17564,
+                                '11 месяцев': 18915,
+                                '12 месяцев': 20266
                             }
                         },
-                        'Ускоренное рассмотрение': {
+                        'Ускоренное рассмотрение (2 дня)': {
                             'Однократная': {
-                                '1 месяц': 17500,
-                                '2 месяца': 20500,
-                                '3 месяца': 23000,
-                                '4 месяца': 26000,
-                                '5 месяцев': 28500,
-                                '6 месяцев': 31000,
-                                '7 месяцев': 34000,
-                                '8 месяцев': 36500,
-                                '9 месяцев': 39500,
-                                '10 месяцев': 42000,
-                                '11 месяцев': 44500,
-                                '12 месяцев': 47500
+                                '1 месяц': 13511,
+                                '2 месяца': 16213,
+                                '3 месяца': 18915,
+                                '4 месяца': 21617,
+                                '5 месяцев': 24319,
+                                '6 месяцев': 27022,
+                                '7 месяцев': 29724,
+                                '8 месяцев': 32426,
+                                '9 месяцев': 35128,
+                                '10 месяцев': 37830,
+                                '11 месяцев': 40533,
+                                '12 месяцев': 43235
                             },
                             'Многократная': {
-                                '1 месяц': 20500,
-                                '2 месяца': 24500,
-                                '3 месяца': 28500,
-                                '4 месяца': 32500,
-                                '5 месяцев': 36500,
-                                '6 месяцев': 40500,
-                                '7 месяцев': 44500,
-                                '8 месяцев': 48500,
-                                '9 месяцев': 53000,
-                                '10 месяцев': 57000,
-                                '11 месяцев': 61000,
-                                '12 месяцев': 65000
-                            }
-                        }
-                    }
-                },
-                uz: {
-                    'Сапар виза': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 2900,
-                                '2 месяца': 2900,
-                                '3 месяца': 2900,
-                                '6 месяцев': 2900
-                            },
-                            'Многократная': {
-                                '1 месяц': 2900,
-                                '2 месяца': 2900,
-                                '3 месяца': 2900,
-                                '6 месяцев': 2900
+                                '1 месяц': 16213,
+                                '2 месяца': 20266,
+                                '3 месяца': 24319,
+                                '4 месяца': 28373,
+                                '5 месяцев': 32426,
+                                '6 месяцев': 36479,
+                                '7 месяцев': 40533,
+                                '8 месяцев': 44586,
+                                '9 месяцев': 48639,
+                                '10 месяцев': 52683,
+                                '11 месяцев': 56746,
+                                '12 месяцев': 60799
                             }
                         },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 4700,
-                                '2 месяца': 4700,
-                                '3 месяца': 4700,
-                                '6 месяцев': 4700
-                            },
-                            'Многократная': {
-                                '1 месяц': 4700,
-                                '2 месяца': 4700,
-                                '3 месяца': 4700,
-                                '6 месяцев': 4700
-                            }
-                        }
+                        'Услуги по оформлению визы': 4000
                     },
-                    'RELATIVES VISA – Воссоединение с семьей ( RL )': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 6900,
-                                '2 месяца': 6900,
-                                '3 месяца': 6900,
-                                '4 месяца': 6900,
-                                '5 месяцев': 6900,
-                                '6 месяцев': 6900,
-                                '7 месяцев': 7800,
-                                '8 месяцев': 7800,
-                                '9 месяцев': 7800,
-                                '10 месяцев': 7800,
-                                '11 месяцев': 7800,
-                                '12 месяцев': 7800,
-                            },
-                            'Многократная': {
-                                '1 месяц': 6900,
-                                '2 месяца': 6900,
-                                '3 месяца': 6900,
-                                '4 месяца': 6900,
-                                '5 месяцев': 6900,
-                                '6 месяцев': 6900,
-                                '7 месяцев': 7800,
-                                '8 месяцев': 7800,
-                                '9 месяцев': 7800,
-                                '10 месяцев': 7800,
-                                '11 месяцев': 7800,
-                                '12 месяцев': 7800
-                            }
-                        },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 8700,
-                                '2 месяца': 8700,
-                                '3 месяца': 8700,
-                                '4 месяца': 8700,
-                                '5 месяцев': 8700,
-                                '6 месяцев': 8700,
-                                '7 месяцев': 8700,
-                                '8 месяцев': 11400,
-                                '9 месяцев': 11400,
-                                '10 месяцев': 11400,
-                                '11 месяцев': 11400,
-                                '12 месяцев': 11400
-                            },
-                            'Многократная': {
-                                '1 месяц': 8700,
-                                '2 месяца': 8700,
-                                '3 месяца': 8700,
-                                '4 месяца': 8700,
-                                '5 месяцев': 8700,
-                                '6 месяцев': 8700,
-                                '7 месяцев': 8700,
-                                '8 месяцев': 11400,
-                                '9 месяцев': 11400,
-                                '10 месяцев': 11400,
-                                '11 месяцев': 11400,
-                                '12 месяцев': 11400
-                            }
-                        }
-                    },
-                    'FOREIGNER FAMILY VISA – для членов семьи иностранного гражданина ( FF )': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 6900,
-                                '2 месяца': 6900,
-                                '3 месяца': 6900,
-                                '4 месяца': 6900,
-                                '5 месяцев': 6900,
-                                '6 месяцев': 6900,
-                                '7 месяцев': 7800,
-                                '8 месяцев': 7800,
-                                '9 месяцев': 7800,
-                                '10 месяцев': 7800,
-                                '11 месяцев': 7800,
-                                '12 месяцев': 7800,
-                            },
-                            'Многократная': {
-                                '1 месяц': 6900,
-                                '2 месяца': 6900,
-                                '3 месяца': 6900,
-                                '4 месяца': 6900,
-                                '5 месяцев': 6900,
-                                '6 месяцев': 6900,
-                                '7 месяцев': 7800,
-                                '8 месяцев': 7800,
-                                '9 месяцев': 7800,
-                                '10 месяцев': 7800,
-                                '11 месяцев': 7800,
-                                '12 месяцев': 7800
-                            }
-                        },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 8700,
-                                '2 месяца': 8700,
-                                '3 месяца': 8700,
-                                '4 месяца': 8700,
-                                '5 месяцев': 8700,
-                                '6 месяцев': 8700,
-                                '7 месяцев': 8700,
-                                '8 месяцев': 11400,
-                                '9 месяцев': 11400,
-                                '10 месяцев': 11400,
-                                '11 месяцев': 11400,
-                                '12 месяцев': 11400
-                            },
-                            'Многократная': {
-                                '1 месяц': 8700,
-                                '2 месяца': 8700,
-                                '3 месяца': 8700,
-                                '4 месяца': 8700,
-                                '5 месяцев': 8700,
-                                '6 месяцев': 8700,
-                                '7 месяцев': 8700,
-                                '8 месяцев': 11400,
-                                '9 месяцев': 11400,
-                                '10 месяцев': 11400,
-                                '11 месяцев': 11400,
-                                '12 месяцев': 11400
-                            }
-                        }
-                    },
-                    'WORKING VISA SPECIAL( SW )': {
-                        'Для трудоустройства в КР': {
+                    uz: {
+                        'Сапар виза': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
-                                    '1 месяц': 4900,
-                                    '2 месяца': 4900,
+                                    '1 месяц': 2900,
+                                    '2 месяца': 2900,
+                                    '3 месяца': 2900,
                                 },
                                 'Многократная': {
-                                    '1 месяц': 4900,
-                                    '2 месяца': 4900,
+                                    '1 месяц': 2900,
+                                    '2 месяца': 2900,
+                                    '3 месяца': 2900,
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
-                                    '1 месяц': 6700,
-                                    '2 месяца': 6700,
+                                    '1 месяц': 4700,
+                                    '2 месяца': 4700,
+                                    '3 месяца': 4700,
                                 },
                                 'Многократная': {
-                                    '1 месяц': 6700,
-                                    '2 месяца': 6700,
+                                    '1 месяц': 4700,
+                                    '2 месяца': 4700,
+                                    '3 месяца': 4700,
                                 }
-                            }
+                            },
+                            'Услуги по оформлению визы': 2000
                         },
-                        'Для Работающих в КР': {
+                        'RELATIVES VISA – Воссоединение с семьей ( RL )': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
                                     '1 месяц': 6900,
@@ -1861,6 +1879,7 @@
                                     '9 месяцев': 7800,
                                     '10 месяцев': 7800,
                                     '11 месяцев': 7800,
+                                    '12 месяцев': 7800,
                                 },
                                 'Многократная': {
                                     '1 месяц': 6900,
@@ -1877,7 +1896,7 @@
                                     '12 месяцев': 7800
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
                                     '1 месяц': 8700,
                                     '2 месяца': 8700,
@@ -1889,7 +1908,8 @@
                                     '8 месяцев': 11400,
                                     '9 месяцев': 11400,
                                     '10 месяцев': 11400,
-                                    '11 месяцев': 11400
+                                    '11 месяцев': 11400,
+                                    '12 месяцев': 11400
                                 },
                                 'Многократная': {
                                     '1 месяц': 8700,
@@ -1905,37 +1925,305 @@
                                     '11 месяцев': 11400,
                                     '12 месяцев': 11400
                                 }
-                            }
-                        }
-                    },
-                    'STUDY ( S )': {
-                        'Для абитуриентов': {
+                            },
+                            'Услуги по оформлению визы': 2000
+                        },
+                        'FOREIGNER FAMILY VISA – для членов семьи иностранного гражданина ( FF )': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
-                                    '1 месяц': 5900,
-                                    '2 месяца': 5900,
-                                    '3 месяца': 5900,
+                                    '1 месяц': 6900,
+                                    '2 месяца': 6900,
+                                    '3 месяца': 6900,
+                                    '4 месяца': 6900,
+                                    '5 месяцев': 6900,
+                                    '6 месяцев': 6900,
+                                    '7 месяцев': 7800,
+                                    '8 месяцев': 7800,
+                                    '9 месяцев': 7800,
+                                    '10 месяцев': 7800,
+                                    '11 месяцев': 7800,
+                                    '12 месяцев': 7800,
                                 },
                                 'Многократная': {
-                                    '1 месяц': 5900,
-                                    '2 месяца': 5900,
-                                    '3 месяца': 5900,
+                                    '1 месяц': 6900,
+                                    '2 месяца': 6900,
+                                    '3 месяца': 6900,
+                                    '4 месяца': 6900,
+                                    '5 месяцев': 6900,
+                                    '6 месяцев': 6900,
+                                    '7 месяцев': 7800,
+                                    '8 месяцев': 7800,
+                                    '9 месяцев': 7800,
+                                    '10 месяцев': 7800,
+                                    '11 месяцев': 7800,
+                                    '12 месяцев': 7800
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
-                                    '1 месяц': 5700,
-                                    '2 месяца': 5700,
-                                    '3 месяца': 5700,
+                                    '1 месяц': 8700,
+                                    '2 месяца': 8700,
+                                    '3 месяца': 8700,
+                                    '4 месяца': 8700,
+                                    '5 месяцев': 8700,
+                                    '6 месяцев': 8700,
+                                    '7 месяцев': 8700,
+                                    '8 месяцев': 11400,
+                                    '9 месяцев': 11400,
+                                    '10 месяцев': 11400,
+                                    '11 месяцев': 11400,
+                                    '12 месяцев': 11400
                                 },
                                 'Многократная': {
-                                    '1 месяц': 5700,
-                                    '2 месяца': 5700,
-                                    '3 месяца': 5700,
+                                    '1 месяц': 8700,
+                                    '2 месяца': 8700,
+                                    '3 месяца': 8700,
+                                    '4 месяца': 8700,
+                                    '5 месяцев': 8700,
+                                    '6 месяцев': 8700,
+                                    '7 месяцев': 8700,
+                                    '8 месяцев': 11400,
+                                    '9 месяцев': 11400,
+                                    '10 месяцев': 11400,
+                                    '11 месяцев': 11400,
+                                    '12 месяцев': 11400
                                 }
-                            }
+                            },
+                            'Услуги по оформлению визы': 2000
                         },
-                        'Для учащихся': {
+                        'WORKING VISA SPECIAL( SW )': {
+                            'Для трудоустройства в КР': {
+                                'Стандартное рассмотрение': {
+                                    'Однократная': {
+                                        '1 месяц': 4900,
+                                        '2 месяца': 4900,
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 4900,
+                                        '2 месяца': 4900,
+                                    }
+                                },
+                                'Ускоренное рассмотрение (2 дня)': {
+                                    'Однократная': {
+                                        '1 месяц': 6700,
+                                        '2 месяца': 6700,
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 6700,
+                                        '2 месяца': 6700,
+                                    }
+                                }
+                            },
+                            'Для Работающих в КР': {
+                                'Стандартное рассмотрение': {
+                                    'Однократная': {
+                                        '1 месяц': 6900,
+                                        '2 месяца': 6900,
+                                        '3 месяца': 6900,
+                                        '4 месяца': 6900,
+                                        '5 месяцев': 6900,
+                                        '6 месяцев': 6900,
+                                        '7 месяцев': 7800,
+                                        '8 месяцев': 7800,
+                                        '9 месяцев': 7800,
+                                        '10 месяцев': 7800,
+                                        '11 месяцев': 7800,
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 6900,
+                                        '2 месяца': 6900,
+                                        '3 месяца': 6900,
+                                        '4 месяца': 6900,
+                                        '5 месяцев': 6900,
+                                        '6 месяцев': 6900,
+                                        '7 месяцев': 7800,
+                                        '8 месяцев': 7800,
+                                        '9 месяцев': 7800,
+                                        '10 месяцев': 7800,
+                                        '11 месяцев': 7800,
+                                        '12 месяцев': 7800
+                                    }
+                                },
+                                'Ускоренное рассмотрение (2 дня)': {
+                                    'Однократная': {
+                                        '1 месяц': 8700,
+                                        '2 месяца': 8700,
+                                        '3 месяца': 8700,
+                                        '4 месяца': 8700,
+                                        '5 месяцев': 8700,
+                                        '6 месяцев': 8700,
+                                        '7 месяцев': 8700,
+                                        '8 месяцев': 11400,
+                                        '9 месяцев': 11400,
+                                        '10 месяцев': 11400,
+                                        '11 месяцев': 11400
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 8700,
+                                        '2 месяца': 8700,
+                                        '3 месяца': 8700,
+                                        '4 месяца': 8700,
+                                        '5 месяцев': 8700,
+                                        '6 месяцев': 8700,
+                                        '7 месяцев': 8700,
+                                        '8 месяцев': 11400,
+                                        '9 месяцев': 11400,
+                                        '10 месяцев': 11400,
+                                        '11 месяцев': 11400,
+                                        '12 месяцев': 11400
+                                    }
+                                }
+                            },
+                            'Услуги по оформлению визы': 2000
+                        },
+                        'STUDY ( S )': {
+                            'Для абитуриентов': {
+                                'Стандартное рассмотрение': {
+                                    'Однократная': {
+                                        '1 месяц': 5900,
+                                        '2 месяца': 5900,
+                                        '3 месяца': 5900,
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 5900,
+                                        '2 месяца': 5900,
+                                        '3 месяца': 5900,
+                                    }
+                                },
+                                'Ускоренное рассмотрение (2 дня)': {
+                                    'Однократная': {
+                                        '1 месяц': 5700,
+                                        '2 месяца': 5700,
+                                        '3 месяца': 5700,
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 5700,
+                                        '2 месяца': 5700,
+                                        '3 месяца': 5700,
+                                    }
+                                },
+                                'Услуги по оформлению визы': 2000
+                            },
+                            'Для учащихся': {
+                                'Стандартное рассмотрение': {
+                                    'Однократная': {
+                                        '1 месяц': 5900,
+                                        '2 месяца': 5900,
+                                        '3 месяца': 5900,
+                                        '4 месяца': 5900,
+                                        '5 месяцев': 5900,
+                                        '6 месяцев': 5900,
+                                        '7 месяцев': 6800,
+                                        '8 месяцев': 6800,
+                                        '9 месяцев': 6800,
+                                        '10 месяцев': 6800,
+                                        '11 месяцев': 6800,
+                                        '12 месяцев': 6800
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 5900,
+                                        '2 месяца': 5900,
+                                        '3 месяца': 5900,
+                                        '4 месяца': 5900,
+                                        '5 месяцев': 5900,
+                                        '6 месяцев': 5900,
+                                        '7 месяцев': 6800,
+                                        '8 месяцев': 6800,
+                                        '9 месяцев': 6800,
+                                        '10 месяцев': 6800,
+                                        '11 месяцев': 6800,
+                                        '12 месяцев': 6800
+                                    }
+                                },
+                                'Ускоренное рассмотрение (2 дня)': {
+                                    'Однократная': {
+                                        '1 месяц': 7700,
+                                        '2 месяца': 7700,
+                                        '3 месяца': 7700,
+                                        '4 месяца': 7700,
+                                        '5 месяцев': 7700,
+                                        '6 месяцев': 7700,
+                                        '7 месяцев': 10400,
+                                        '8 месяцев': 10400,
+                                        '9 месяцев': 10400,
+                                        '10 месяцев': 10400,
+                                        '11 месяцев': 10400,
+                                        '12 месяцев': 10400
+                                    },
+                                    'Многократная': {
+                                        '1 месяц': 7700,
+                                        '2 месяца': 7700,
+                                        '3 месяца': 7700,
+                                        '4 месяца': 7700,
+                                        '5 месяцев': 7700,
+                                        '6 месяцев': 7700,
+                                        '7 месяцев': 10400,
+                                        '8 месяцев': 10400,
+                                        '9 месяцев': 10400,
+                                        '10 месяцев': 10400,
+                                        '11 месяцев': 10400,
+                                        '12 месяцев': 10400
+                                    }
+                                },
+                                'Услуги по оформлению визы': 2000
+                            },
+
+                        },
+                        'LEAVE ( L)': {
+                            'Стандартное рассмотрение': {
+                                'В случае превышения срока пребывания до 3 месяцев': 5900,
+                                'В случае превышения срока пребывания до 6 месяцев': 5900,
+                                'В случае превышения срока пребывания от 6 месяцев до 1 года': 5900,
+                                'В случае превышения срока пребывания более 1 года': 5900
+                            },
+                            'Ускоренное рассмотрение (2 дня)': {
+                                'В случае превышения срока пребывания до 3 месяцев': 7700,
+                                'В случае превышения срока пребывания до 6 месяцев': 7700,
+                                'В случае превышения срока пребывания от 6 месяцев до 1 года': 7700,
+                                'В случае превышения срока пребывания более 1 года': 7700
+                            },
+                            'Услуги по оформлению визы': 2000
+                        },
+                        'Цифровой кочевник  ( DN )': {
+                            'Стандартное рассмотрение': {
+                                'Однократная': {
+                                    '1 месяц': 4900,
+                                    '2 месяца': 4900,
+                                    '3 месяца': 4900,
+                                    '4 месяца': 4900,
+                                    '5 месяцев': 4900,
+                                    '6 месяцев': 4900,
+                                },
+                                'Многократная': {
+                                    '1 месяц': 4900,
+                                    '2 месяца': 4900,
+                                    '3 месяца': 4900,
+                                    '4 месяца': 4900,
+                                    '5 месяцев': 4900,
+                                    '6 месяцев': 4900,
+                                },
+                            },
+                            'Ускоренное рассмотрение (2 дня)': {
+                                'Однократная': {
+                                    '1 месяц': 6700,
+                                    '2 месяца': 6700,
+                                    '3 месяца': 6700,
+                                    '4 месяца': 6700,
+                                    '5 месяцев': 6700,
+                                    '6 месяцев': 6700,
+                                },
+                                'Многократная': {
+                                    '1 месяц': 6700,
+                                    '2 месяца': 6700,
+                                    '3 месяца': 6700,
+                                    '4 месяца': 6700,
+                                    '5 месяцев': 6700,
+                                    '6 месяцев': 6700,
+                                }
+                            },
+                            'Услуги по оформлению визы': 2000
+                        },
+                        'Visa to ethnic Kyrgyz ( M )': {
                             'Стандартное рассмотрение': {
                                 'Однократная': {
                                     '1 месяц': 5900,
@@ -1966,7 +2254,7 @@
                                     '12 месяцев': 6800
                                 }
                             },
-                            'Ускоренное рассмотрение': {
+                            'Ускоренное рассмотрение (2 дня)': {
                                 'Однократная': {
                                     '1 месяц': 7700,
                                     '2 месяца': 7700,
@@ -1995,220 +2283,111 @@
                                     '11 месяцев': 10400,
                                     '12 месяцев': 10400
                                 }
-                            }
-                        }
-                    },
-                    'LEAVE ( L)': {
-                        'Стандартное рассмотрение': {
-                            'В случае превышения срока пребывания до 3 месяцев': 5900,
-                            'В случае превышения срока пребывания до 6 месяцев': 5900,
-                            'В случае превышения срока пребывания от 6 месяцев до 1 года': 5900,
-                            'В случае превышения срока пребывания более 1 года': 5900
+                            },
+                            'Услуги по оформлению визы': 2000
                         },
-                        'Ускоренное рассмотрение': {
-                            'В случае превышения срока пребывания до 3 месяцев': 7700,
-                            'В случае превышения срока пребывания до 6 месяцев': 7700,
-                            'В случае превышения срока пребывания от 6 месяцев до 1 года': 7700,
-                            'В случае превышения срока пребывания более 1 года': 7700
-                        }
-                    },
-                    'Цифровой кочевник  ( DN )': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 4900,
-                                '2 месяца': 4900,
-                                '3 месяца': 4900,
-                                '4 месяца': 4900,
-                                '5 месяцев': 4900,
-                                '6 месяцев': 4900,
+                        'Transit-Транзитная виза ( TR )': {
+                            'Стандартное рассмотрение': {
+                                'Однократная': {
+                                    'Однократная': 3400,
+                                }
                             },
-                            'Многократная': {
-                                '1 месяц': 4900,
-                                '2 месяца': 4900,
-                                '3 месяца': 4900,
-                                '4 месяца': 4900,
-                                '5 месяцев': 4900,
-                                '6 месяцев': 4900,
-                            }
+                            'Ускоренное рассмотрение (2 дня)': {
+                                'Однократная': {
+                                    'Однократная': 5200,
+                                },
+                            },
+                            'Услуги по оформлению визы': 2000
                         },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 6700,
-                                '2 месяца': 6700,
-                                '3 месяца': 6700,
-                                '4 месяца': 6700,
-                                '5 месяцев': 6700,
-                                '6 месяцев': 6700,
+                        'Religion-Религиозная виза (тип «R»)': {
+                            'Стандартное рассмотрение': {
+                                'Однократная': {
+                                    '1 месяц': 3900,
+                                    '2 месяца': 3900,
+                                },
+                                'Многократная': {
+                                    '1 месяц': 3900,
+                                    '2 месяца': 3900,
+                                }
                             },
-                            'Многократная': {
-                                '1 месяц': 6700,
-                                '2 месяца': 6700,
-                                '3 месяца': 6700,
-                                '4 месяца': 6700,
-                                '5 месяцев': 6700,
-                                '6 месяцев': 6700,
-                            }
-                        }
-                    },
-                    'Visa to ethnic Kyrgyz ( M )': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 5900,
-                                '2 месяца': 5900,
-                                '3 месяца': 5900,
-                                '4 месяца': 5900,
-                                '5 месяцев': 5900,
-                                '6 месяцев': 5900,
-                                '7 месяцев': 6800,
-                                '8 месяцев': 6800,
-                                '9 месяцев': 6800,
-                                '10 месяцев': 6800,
-                                '11 месяцев': 6800,
-                                '12 месяцев': 6800
+                            'Ускоренное рассмотрение (2 дня)': {
+                                'Однократная': {
+                                    '1 месяц': 5700,
+                                    '2 месяца': 5700,
+                                },
+                                'Многократная': {
+                                    '1 месяц': 5700,
+                                    '2 месяца': 5700,
+                                }
                             },
-                            'Многократная': {
-                                '1 месяц': 5900,
-                                '2 месяца': 5900,
-                                '3 месяца': 5900,
-                                '4 месяца': 5900,
-                                '5 месяцев': 5900,
-                                '6 месяцев': 5900,
-                                '7 месяцев': 6800,
-                                '8 месяцев': 6800,
-                                '9 месяцев': 6800,
-                                '10 месяцев': 6800,
-                                '11 месяцев': 6800,
-                                '12 месяцев': 6800
-                            }
+                            'Услуги по оформлению визы': 2000
                         },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 7700,
-                                '2 месяца': 7700,
-                                '3 месяца': 7700,
-                                '4 месяца': 7700,
-                                '5 месяцев': 7700,
-                                '6 месяцев': 7700,
-                                '7 месяцев': 10400,
-                                '8 месяцев': 10400,
-                                '9 месяцев': 10400,
-                                '10 месяцев': 10400,
-                                '11 месяцев': 10400,
-                                '12 месяцев': 10400
+                        'Special Guest visa - Атайын мейман виза (тип «SG»)': {
+                            'Стандартное рассмотрение': {
+                                'Однократная': {
+                                    '1 месяц': 4900,
+                                    '2 месяца': 4900,
+                                    '3 месяца': 4900,
+                                    '4 месяца': 4900,
+                                    '5 месяцев': 4900,
+                                    '6 месяцев': 4900,
+                                    '7 месяцев': 5800,
+                                    '8 месяцев': 5800,
+                                    '9 месяцев': 5800,
+                                    '10 месяцев': 5800,
+                                    '11 месяцев': 5800,
+                                    '12 месяцев': 5800
+                                },
+                                'Многократная': {
+                                    '1 месяц': 4900,
+                                    '2 месяца': 4900,
+                                    '3 месяца': 4900,
+                                    '4 месяца': 4900,
+                                    '5 месяцев': 4900,
+                                    '6 месяцев': 4900,
+                                    '7 месяцев': 5800,
+                                    '8 месяцев': 5800,
+                                    '9 месяцев': 5800,
+                                    '10 месяцев': 5800,
+                                    '11 месяцев': 5800,
+                                    '12 месяцев': 5800
+                                }
                             },
-                            'Многократная': {
-                                '1 месяц': 7700,
-                                '2 месяца': 7700,
-                                '3 месяца': 7700,
-                                '4 месяца': 7700,
-                                '5 месяцев': 7700,
-                                '6 месяцев': 7700,
-                                '7 месяцев': 10400,
-                                '8 месяцев': 10400,
-                                '9 месяцев': 10400,
-                                '10 месяцев': 10400,
-                                '11 месяцев': 10400,
-                                '12 месяцев': 10400
-                            }
-                        }
-                    },
-                    'Transit-Транзитная виза ( TR )': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                'Однократная': 3400,
-                            }
+                            'Ускоренное рассмотрение (2 дня)': {
+                                'Однократная': {
+                                    '1 месяц': 6700,
+                                    '2 месяца': 6700,
+                                    '3 месяца': 6700,
+                                    '4 месяца': 6700,
+                                    '5 месяцев': 6700,
+                                    '6 месяцев': 6700,
+                                    '7 месяцев': 9400,
+                                    '8 месяцев': 9400,
+                                    '9 месяцев': 9400,
+                                    '10 месяцев': 9400,
+                                    '11 месяцев': 9400,
+                                    '12 месяцев': 9400
+                                },
+                                'Многократная': {
+                                    '1 месяц': 6700,
+                                    '2 месяца': 6700,
+                                    '3 месяца': 6700,
+                                    '4 месяца': 6700,
+                                    '5 месяцев': 6700,
+                                    '6 месяцев': 6700,
+                                    '7 месяцев': 9400,
+                                    '8 месяцев': 9400,
+                                    '9 месяцев': 9400,
+                                    '10 месяцев': 9400,
+                                    '11 месяцев': 9400,
+                                    '12 месяцев': 9400
+                                }
+                            },
+                            'Услуги по оформлению визы': 2000
                         },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                'Однократная': 5200,
-                            },
-                        }
+
                     },
-                    'Religion-Религиозная виза (тип «R»)': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 3900,
-                                '2 месяца': 3900,
-                            },
-                            'Многократная': {
-                                '1 месяц': 3900,
-                                '2 месяца': 3900,
-                            }
-                        },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 5700,
-                                '2 месяца': 5700,
-                            },
-                            'Многократная': {
-                                '1 месяц': 5700,
-                                '2 месяца': 5700,
-                            }
-                        }
-                    },
-                    'Special Guest visa - Атайын мейман виза (тип «SG»)': {
-                        'Стандартное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 4900,
-                                '2 месяца': 4900,
-                                '3 месяца': 4900,
-                                '4 месяца': 4900,
-                                '5 месяцев': 4900,
-                                '6 месяцев': 4900,
-                                '7 месяцев': 5800,
-                                '8 месяцев': 5800,
-                                '9 месяцев': 5800,
-                                '10 месяцев': 5800,
-                                '11 месяцев': 5800,
-                                '12 месяцев': 5800
-                            },
-                            'Многократная': {
-                                '1 месяц': 4900,
-                                '2 месяца': 4900,
-                                '3 месяца': 4900,
-                                '4 месяца': 4900,
-                                '5 месяцев': 4900,
-                                '6 месяцев': 4900,
-                                '7 месяцев': 5800,
-                                '8 месяцев': 5800,
-                                '9 месяцев': 5800,
-                                '10 месяцев': 5800,
-                                '11 месяцев': 5800,
-                                '12 месяцев': 5800
-                            }
-                        },
-                        'Ускоренное рассмотрение': {
-                            'Однократная': {
-                                '1 месяц': 6700,
-                                '2 месяца': 6700,
-                                '3 месяца': 6700,
-                                '4 месяца': 6700,
-                                '5 месяцев': 6700,
-                                '6 месяцев': 6700,
-                                '7 месяцев': 9400,
-                                '8 месяцев': 9400,
-                                '9 месяцев': 9400,
-                                '10 месяцев': 9400,
-                                '11 месяцев': 9400,
-                                '12 месяцев': 9400
-                            },
-                            'Многократная': {
-                                '1 месяц': 6700,
-                                '2 месяца': 6700,
-                                '3 месяца': 6700,
-                                '4 месяца': 6700,
-                                '5 месяцев': 6700,
-                                '6 месяцев': 6700,
-                                '7 месяцев': 9400,
-                                '8 месяцев': 9400,
-                                '9 месяцев': 9400,
-                                '10 месяцев': 9400,
-                                '11 месяцев': 9400,
-                                '12 месяцев': 9400
-                            }
-                        }
-                    }
-                },
+                }
             }
         ]
 
@@ -2227,22 +2406,93 @@
         const visaDuration = document.getElementById("visaDuration");
         const visaPrice = document.getElementById("visaPrice");
 
+        const selects = [visaSubType, visaProcess, visaEntry, visaDuration];
+
+
+        // ===== ВСПОМОГАТЕЛЬНЫЕ =====
+
         function resetSelect(select) {
             select.innerHTML = '<option value="">Выберите</option>';
         }
 
-        function resetAll() {
+        function hideAll() {
+            selects.forEach(select => {
+                select.style.display = "none";
+                resetSelect(select);
+            });
             visaType.style.display = "none";
-            visaSubType.style.display = "none";
-            visaProcess.style.display = "none";
-            visaEntry.style.display = "none";
-            visaDuration.style.display = "none";
-            visaPrice.textContent = "—";
+            visaPrice.innerHTML = "—";
         }
 
+        function addOptions(select, obj) {
+            Object.keys(obj).forEach(key => {
+                if (!key.includes("Услуги по оформлению визы")) {
+                    select.innerHTML += `<option value="${key}">${key}</option>`;
+                }
+            });
+        }
+
+        function getServicePrice() {
+            return (
+                data[visaType.value]["Услуги по оформлению визы"] ||
+                data[visaType.value]["Услуги по оформлению визы (не считая протокола)"] ||
+                data[visaType.value]["Услуги по оформлению визы (не считая справки)"] ||
+                data[visaType.value]["Услуги по оформлению визы (не считая нот. заверения)"] ||
+                0
+            );
+        }
+
+
+        // ===== УНИВЕРСАЛЬНАЯ ЗАГРУЗКА УРОВНЯ =====
+
+        function loadNextLevel(levelData, levelIndex) {
+
+            // Если дошли до числа → считаем цену
+            if (typeof levelData === "number") {
+
+                const gos = levelData;
+                const service = getServicePrice();
+                const total = gos + service;
+
+                visaPrice.innerHTML = `
+            Госпошлина: ${gos.toLocaleString()} сом<br>
+            Услуги по оформлению визы: ${service.toLocaleString()} сом<br>
+            <strong>Итог: ${total.toLocaleString()} сом</strong>
+        `;
+                return;
+            }
+
+            // Если это объект → показываем следующий select
+            const select = selects[levelIndex];
+            if (!select) return;
+
+            // Скрываем все нижние уровни
+            for (let i = levelIndex; i < selects.length; i++) {
+                selects[i].style.display = "none";
+                resetSelect(selects[i]);
+            }
+
+            select.style.display = "block";
+            resetSelect(select);
+            addOptions(select, levelData);
+
+            select.onchange = function () {
+                if (!this.value) return;
+
+                visaPrice.innerHTML = "—";
+
+                const nextData = levelData[this.value];
+                loadNextLevel(nextData, levelIndex + 1);
+            };
+        }
+
+
+        // ===== 1. СТРАНА =====
+
         visaRegion.onchange = function () {
+
             data = visaData[this.value];
-            resetAll();
+            hideAll();
 
             if (!data || Object.keys(data).length === 0) return;
 
@@ -2254,92 +2504,21 @@
             });
         };
 
+
+        // ===== 2. ТИП ВИЗЫ =====
+
         visaType.onchange = function () {
+
+            selects.forEach(select => {
+                select.style.display = "none";
+                resetSelect(select);
+            });
+
+            visaPrice.innerHTML = "—";
+
             const selected = data[this.value];
-            handleSubLevels(selected);
+            loadNextLevel(selected, 0);
         };
-
-        function handleSubLevels(selected) {
-            resetSelect(visaSubType);
-            resetSelect(visaProcess);
-            resetSelect(visaEntry);
-            resetSelect(visaDuration);
-            visaPrice.textContent = "—";
-
-            const keys = Object.keys(selected);
-
-            if (typeof selected[keys[0]] === "object" &&
-                !selected[keys[0]]["Однократная"]) {
-
-                visaSubType.style.display = "block";
-                visaProcess.style.display = "none";
-
-                keys.forEach(k => {
-                    visaSubType.innerHTML += `<option value="${k}">${k}</option>`;
-                });
-
-            } else {
-                visaSubType.style.display = "none";
-                loadProcess(selected);
-            }
-        }
-
-        visaSubType.onchange = function () {
-            loadProcess(data[visaType.value][this.value]);
-        };
-
-        function loadProcess(processData) {
-            visaProcess.style.display = "block";
-            resetSelect(visaProcess);
-            resetSelect(visaEntry);
-            resetSelect(visaDuration);
-
-            Object.keys(processData).forEach(k => {
-                visaProcess.innerHTML += `<option value="${k}">${k}</option>`;
-            });
-        }
-
-        visaProcess.onchange = function () {
-            visaEntry.style.display = "block";
-            resetSelect(visaEntry);
-            resetSelect(visaDuration);
-
-            const entryData = getCurrentData();
-            Object.keys(entryData).forEach(k => {
-                visaEntry.innerHTML += `<option value="${k}">${k}</option>`;
-            });
-        };
-
-        visaEntry.onchange = function () {
-            visaDuration.style.display = "block";
-            resetSelect(visaDuration);
-
-            const durationData = getCurrentData();
-            Object.keys(durationData).forEach(k => {
-                visaDuration.innerHTML += `<option value="${k}">${k}</option>`;
-            });
-        };
-
-        visaDuration.onchange = function () {
-            const price = getCurrentData()[this.value];
-            visaPrice.textContent = price.toLocaleString();
-        };
-
-        function getCurrentData() {
-            let current = data[visaType.value];
-
-            if (visaSubType.style.display !== "none" && visaSubType.value) {
-                current = current[visaSubType.value];
-            }
-            if (visaProcess.value) {
-                current = current[visaProcess.value];
-            }
-            if (visaEntry.value) {
-                current = current[visaEntry.value];
-            }
-
-            return current;
-        }
     </script>
 
 

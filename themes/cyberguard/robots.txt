@@ -1,0 +1,2 @@
+Allow: /
+Sitemap: https://www.randp.kg/sitemap.xml
